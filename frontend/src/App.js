@@ -8,6 +8,7 @@ import {
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import BerrycardsPage from './pages/BerrycardsPage';
+import NearfmPage from './pages/NearfmPage';
 import NotFoundPage from './pages/NotFoundPage';
 
 import NavBar from './NavBar';
@@ -35,6 +36,7 @@ class App extends Component {
               <Route path="/" component={HomePage} exact />
               <Route path="/about" component={AboutPage} />
               <Route path="/berrycards" component={BerrycardsPage} />
+              <Route path="/nearfm" component={NearfmPage} />
               <Route component={NotFoundPage} />
             </Switch>
           </div>

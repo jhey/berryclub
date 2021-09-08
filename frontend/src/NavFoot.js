@@ -63,7 +63,7 @@ const NavFoot = () => (
 <div className="container foot-holder">
   <footer className="row row-cols-5 py-5 my-0">
     
-    <div className="col">      
+    <div className="col col-12 col-sm-12 col-md-2">      
       {/* <a href="/" className="d-flex align-items-center mb-3 link-dark text-decoration-none"> */}
       <a href="/" className="d-inline-flex flex-column align-items-left mb-3 link-dark text-decoration-none">
      <LogoAvacado/><br/>
