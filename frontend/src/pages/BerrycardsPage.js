@@ -297,7 +297,7 @@ const BerrycardsPage = () => (
         <p>
     Read more: <a href="https://near.org/blog/funberryclub/">near.org/blog/funberryclub/</a>
    </p>
-  </div>CardItem
+  </div>
   </div>
   </div>
 
